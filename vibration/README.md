@@ -1,0 +1,1 @@
+Aprenda a integrar vibrações no dispositivo dentro do seu aplicativo Ionic
